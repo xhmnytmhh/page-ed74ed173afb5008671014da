@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.zhengjinwenhua.cn/sitemap.xml
